@@ -14,6 +14,7 @@ Webpack PWA
 Workbox
 ```
 ## Links
+```
 Heroku: https://pure-chamber-19414-fe72f4e0299c.herokuapp.com/
 GitHub: https://github.com/dizzymouse0/pwa-text-editor
-Deployed URL: 
+```
